@@ -30,5 +30,6 @@ public class EasyLevelTask3 {
         } else {
             System.out.println("Не хватает ингредиентов");
         }
+
     }
 }
