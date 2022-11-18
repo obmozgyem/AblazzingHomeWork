@@ -12,5 +12,6 @@ public class EasyLevelTask1 {
         double index = weight / (growth * growth);
 
         System.out.println("Ваш индекс массы = " + index);
+
     }
 }
