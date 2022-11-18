@@ -1,5 +1,4 @@
 # Default ignored files
-out
-.idea
 *.inl
-
+/.idea/
+/out/

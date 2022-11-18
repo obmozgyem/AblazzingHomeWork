@@ -29,6 +29,7 @@ public class EasyLevelTask3 {
             System.out.println("Овощной салат");
         } else {
             System.out.println("Не хватает ингредиентов");
+
         }
 
     }
