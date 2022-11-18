@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork1/EasyLevelTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork1/EasyLevelTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="1705bc63-af18-4a28-9cf6-c05f4ada7009" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +48,14 @@
       <recent name="D:\Games\IntelliJ IDEA Community Edition 2022.2.1\AblazzingHomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EasyLevelTask3">
+  <component name="RunManager" selected="Application.EasyLevelTask1">
+    <configuration name="EasyLevelTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLevelTask1" />
+      <module name="AblazzingHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EasyLevelTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EasyLevelTask2" />
       <module name="AblazzingHomeWork" />
@@ -64,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EasyLevelTask1" />
         <item itemvalue="Application.EasyLevelTask3" />
         <item itemvalue="Application.EasyLevelTask2" />
       </list>
@@ -120,7 +129,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668783342856</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init commit">
+      <created>1668783585011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783585011</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1668783757117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783757117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1668783823172</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783823172</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +182,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
