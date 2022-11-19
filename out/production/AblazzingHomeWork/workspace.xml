@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/.gitignore" afterDir="false" />
+    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="1705bc63-af18-4a28-9cf6-c05f4ada7009" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,7 +39,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Games\IntelliJ IDEA Community Edition 2022.2.1\AblazzingHomeWork\.idea" />
+      <recent name="D:\Games\IntelliJ IDEA Community Edition 2022.2.1\AblazzingHomeWork" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.EasyLevelTask3">
+    <configuration name="EasyLevelTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLevelTask1" />
+      <module name="AblazzingHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EasyLevelTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EasyLevelTask2" />
       <module name="AblazzingHomeWork" />
@@ -60,6 +70,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.EasyLevelTask3" />
+        <item itemvalue="Application.EasyLevelTask1" />
         <item itemvalue="Application.EasyLevelTask2" />
       </list>
     </recent_temporary>
@@ -73,6 +84,91 @@
       <option name="presentableId" value="Default" />
       <updated>1668777723094</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1668782962116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668782962116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1668783055824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783055824</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1668783122604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783122604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init commit">
+      <created>1668783200039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783200039</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init commit">
+      <created>1668783207115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783207115</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init commit">
+      <created>1668783342856</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783342856</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init commit">
+      <created>1668783585011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783585011</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1668783757117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783757117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1668783823172</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668783823172</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <created>1668784388749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784388749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <created>1668784428418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784428418</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <created>1668784449941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784449941</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +181,26 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

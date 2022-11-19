@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/EasyLevelTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork1/EasyLevelTask1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +45,7 @@
       <recent name="D:\Games\IntelliJ IDEA Community Edition 2022.2.1\AblazzingHomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EasyLevelTask1">
+  <component name="RunManager" selected="Application.EasyLevelTask3">
     <configuration name="EasyLevelTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EasyLevelTask1" />
       <module name="AblazzingHomeWork" />
@@ -72,8 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EasyLevelTask1" />
         <item itemvalue="Application.EasyLevelTask3" />
+        <item itemvalue="Application.EasyLevelTask1" />
         <item itemvalue="Application.EasyLevelTask2" />
       </list>
     </recent_temporary>
@@ -150,7 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668783823172</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test">
+      <created>1668784388749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784388749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <created>1668784428418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784428418</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <created>1668784449941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784449941</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,9 +198,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="init commit" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

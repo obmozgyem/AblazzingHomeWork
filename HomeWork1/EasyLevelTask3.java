@@ -1,11 +1,11 @@
 public class EasyLevelTask3 {
     public static void main(String[] args) {
         //Курица
-        boolean chicken = false;
+        boolean chicken = true;
         //Овощи
-        boolean vegetables = false;
+        boolean vegetables = true;
         //Соус
-        boolean sour = false;
+        boolean sour = true;
         //Хлеб
         boolean toast = true;
         //Колбаса
@@ -13,11 +13,11 @@ public class EasyLevelTask3 {
         //Яйца
         boolean eggs = true;
 
-        if (chicken == true && vegetables == true && sour == true && toast) {
+        if (chicken  && vegetables  && sour  && toast) {
             System.out.println("Цезарь");
-        } else if (vegetables == true && eggs == true && (sausage == true || chicken == true)) {
+        } else if (vegetables && eggs && (sausage || chicken)) {
             System.out.println("Оливье");
-        } else if (vegetables == true) {
+        } else if (vegetables ) {
             System.out.println("Овощной салат");
         } else {
             System.out.println("Не хватает ингредиентов");
