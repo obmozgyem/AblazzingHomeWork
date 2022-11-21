@@ -1,3 +1,5 @@
+package HomeWork1;
+
 public class EasyLevelTask2 {
     // Задание №2
     // Дано:
