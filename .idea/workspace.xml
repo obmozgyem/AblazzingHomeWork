@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="исправление недочёта">
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/AdvancedTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/AdvancedTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/AdvancedTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/AdvancedTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/EasyLevelTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/EasyLevelTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork2/EasyLevelTask3.java" afterDir="false" />
+    <list default="true" id="51baa47b-5ecb-480b-b7f0-001e6753d0d7" name="Changes" comment="HomeWork2&#10;Easy+Advanced level">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AblazzingHomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AblazzingHomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/EasyLevelTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/HomeWork1/EasyLevelTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/EasyLevelTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/HomeWork1/EasyLevelTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/EasyLevelTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/HomeWork1/EasyLevelTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/EasyLevelTask3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AblazzingHomeWork/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AblazzingHomeWork/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +48,11 @@
   </component>
   <component name="RunManager" selected="Application.AdvancedTask4">
     <configuration name="AdvancedTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.AdvancedTask1" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Advanced.AdvancedTask1" />
       <module name="AblazzingHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="HomeWork2.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +61,11 @@
       </method>
     </configuration>
     <configuration name="AdvancedTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.AdvancedTask2" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Advanced.AdvancedTask2" />
       <module name="AblazzingHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="HomeWork2.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="AdvancedTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.AdvancedTask3" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Advanced.AdvancedTask3" />
       <module name="AblazzingHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="HomeWork2.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="AdvancedTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.AdvancedTask4" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Advanced.AdvancedTask4" />
       <module name="AblazzingHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="HomeWork2.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork2.EasyLevelTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork2.EasyLevelTask3" />
+    <configuration name="EasyLevelTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.Easy.EasyLevelTask3" />
       <module name="AblazzingHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="PATTERN" value="HomeWork2.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668845414970</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HomeWork2&#10;Easy+Advanced level">
+      <created>1669019859424</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669019859424</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +263,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="test" />
     <MESSAGE value="исправление недочёта" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправление недочёта" />
+    <MESSAGE value="HomeWork2&#10;Easy+Advanced level" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork2&#10;Easy+Advanced level" />
   </component>
 </project>

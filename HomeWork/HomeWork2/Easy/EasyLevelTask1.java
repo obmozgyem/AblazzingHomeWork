@@ -1,4 +1,4 @@
-package HomeWork2;
+package HomeWork2.Easy;
 
 public class EasyLevelTask1 {
     public static void main(String[] args) {
